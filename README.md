@@ -1,10 +1,11 @@
 ## POLS 309: Politmetrics
 
-<center>
+<div align="center">
 
 [![xkcd: Correlation](https://imgs.xkcd.com/comics/correlation.png)](https://xkcd.com/552/)
 
-</center>
+</div>
+
 
 This repository contains course materials for my TA section (504) for POLS 309. 
 In this class, we learn how the basics of data science in Political Science. 
