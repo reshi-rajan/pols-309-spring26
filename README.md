@@ -1,6 +1,6 @@
 ## POLS 309: Politmetrics
-[![]([https://imgs.xkcd.com/comics/x.png](https://imgs.xkcd.com/comics/correlation.png))]
 
+https://imgs.xkcd.com/comics/correlation.png
 
 This repository contains course materials for my TA sections (902 & 907) for POLS 209. 
 In this class, we learn how the basics of research design and methods in Political Science. 
