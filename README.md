@@ -1,5 +1,5 @@
 ## POLS 309: Politmetrics
-[![]([https://imgs.xkcd.com/comics/x.png](https://imgs.xkcd.com/comics/correlation.png))]([https://xkcd.com/2309/](https://xkcd.com/552))
+[![]([https://imgs.xkcd.com/comics/x.png](https://imgs.xkcd.com/comics/correlation.png))]
 
 
 This repository contains course materials for my TA sections (902 & 907) for POLS 209. 
