@@ -1,0 +1,6 @@
+This week we will cover simple regressions and correlations.
+
+In particular, we will learn: 
+  - How to run correlations in R 
+  - How to do basic bivariate and multivariate regressions 
+  - Understand the Approach of Minimizing the Sum of Squared Residuals/Errors
