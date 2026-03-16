@@ -10,7 +10,7 @@
 library(tidyverse)
 
 ### Load the Data ###
-pres_vote <- read.csv("https://raw.githubusercontent.com/reshi-rajan/pols-309-spring26/refs/heads/main/Week%208%3A%20Simple%20Regressions/PresVote.csv")
+pres_vote <- read.csv("https://raw.githubusercontent.com/reshi-rajan/pols-309-spring26/refs/heads/main/Week%208%3A%20Simple%20Regressions%20Part%201/PresVote.csv")
 
 #### Review ####
 
