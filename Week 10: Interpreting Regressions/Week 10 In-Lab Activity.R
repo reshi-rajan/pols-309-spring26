@@ -78,9 +78,7 @@ summary(model_women)
 ### We can try it with our model_men regression first
 
 predict(model_men, newdata = 
-          data.frame(treatment = 
-                       median(model_men$divorcerate, na.rm = TRUE)))
-
+          data.frame(hours = median(work_men$hours, na.rm = TRUE)))
 ### Your Turn: How can we do this for the model_women version?
 
 
